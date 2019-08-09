@@ -1,4 +1,4 @@
-# SSIM_Loss-using-Tensroflow
+# SSIM-Loss-Tensroflow
 This is my implementation of SSIM_Loss using tensorflow. I modify the existed code [here](https://github.com/iteapoy/SSIM-Loss) to handle image batches. I also refer to the [pytorch version](https://github.com/Po-Hsun-Su/pytorch-ssim) and other meterials.
 
 ## Dependencies
